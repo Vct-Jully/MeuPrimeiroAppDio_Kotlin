@@ -1,5 +1,5 @@
 # MeuPrimeiroAppDio_Kotlin
-Primeiro App criado para exercitar conhecimentos do **Bootcamp Android Developer** da Digital Innovation One.
+Primeiro App criado para exercitar conhecimentos do **Bootcamp Formação Android Developer** da Digital Innovation One.
 
 Intenção do projeto- criar alterações nas `'strings.xml'` para alternar as linguagens do app em **Inglês, Português e Espanhol**.
 
